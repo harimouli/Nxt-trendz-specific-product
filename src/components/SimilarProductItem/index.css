@@ -1,0 +1,16 @@
+.similar-product-item-rating-price-container {
+  display: flex;
+  justify-content: space-between;
+}
+.similar-product-img {
+  width: 240px;
+  border-radius: 10px;
+}
+.product-card {
+  width: 255px;
+  margin-right: 30px;
+}
+.similar-product-heading {
+  font-size: 20px;
+  color: #616e7c;
+}
